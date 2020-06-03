@@ -1,0 +1,10 @@
+eserAdı| yazarAdı| yayınYılı| yayınYeri| Yayınevi| ISBN
+Suç ve Ceza| Dostoyevski| 2019| Ankara| Panama Yayıncılık| 9786054401963
+Otomatik Portakal| Anthony Burgess| 2019| İstanbul| Türkiye İş Bankası| Kültür Yayınları| 9786052957929
+Dava| Franz Kafka| 2019| İstanbul| Kırmızıkedi Yayınevi| 9786052980057
+İçimdeki Müzik| Sharon M. Draper| 2019| İstanbul| Genç Timaş| 9786050822038
+İnsan İnsana| Doğan Cüceloğlu| 2019| İstanbul| Remzi Kitabevi| 9789751402967
+Babaya Mektup| Franz Kafka| 2018| İstanbul| İndigo Kitap| 9786052361658
+Savaş Sanatı| Sun Tzu| 2017| İstanbul| İndigo Kitap| 9786052361290
+Kendine Ait Bir Oda| Virginia Woolf| 2017| İstanbul| İndigo Kitap| 9786059144971
+Genç Werther'in Acıları| Goethe| 2017| İstanbul| İndigo Kitap| 9786059144964
